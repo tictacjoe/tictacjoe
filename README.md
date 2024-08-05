@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tictacjoe
-- 👀 I’m interested in TDA, CVQC, network analysis, prompt eng, OpenAI, graph db 
-- 🌱 I’m currently learning GIT, Terraform, GCP
+- 👀 I’m interested in cyber security and data analysis: Graphs, TDA, CVQC, LLMs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tictacjoe@gmail.com
 
